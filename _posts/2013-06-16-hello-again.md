@@ -4,6 +4,10 @@ category: blog
 published: true
 splash: "http://placehold.it/1600x500"
 title: Hello Again
+tags: 
+  - apples
+  - pears
+  - mangos
 ---
 
 We were going for a walk.
